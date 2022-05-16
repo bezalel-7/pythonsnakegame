@@ -13,12 +13,12 @@ Download the source code from the repository and run the file just as any other 
 
 ## Screenshots
 
-![1]
+![1](https://github.com/varadudi/pythonsnakegame/blob/main/Scr1.png)
 *Written using PyCharm*
 
-![2]
+![2](https://github.com/varadudi/pythonsnakegame/blob/main/scr2.png)
 *Active game screen*
 
 ## Prerequisites
 * [Python](https://www.python.org)
-* [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
+* [turtle](https://docs.python.org/3/library/turtle.html), an open source Python library for making multimedia applications
