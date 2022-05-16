@@ -1,11 +1,11 @@
 # Snake Eater
 A snake game written in Python using the Turtle graphics.
 
-#controls 
-right key to point East.
-left Key to point West.
-Up Key to point North.
-Down Key to South .
+##controls 
+right key to point East  
+left Key to point West  
+Up Key to point North  
+Down Key to South   
 #The head keeps moving in the same direction until an arrow key is clicked to change its direction.
 
 ## Running the application
